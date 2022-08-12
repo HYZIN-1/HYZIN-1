@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Rivail
 - :telescope: Desenvolvedor GameDev
-- :seedling: Estudando Python, C#, CSS e HTML
+- :seedling: Estudando Python e Nodejs
 - :video_game: No meu tempo livre, gosto muito de jogar videogame.
 - :mailbox: Entre em contato comigo pelo email: lucasrivail.profissional2@gmail.com
 
