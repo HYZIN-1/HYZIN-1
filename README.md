@@ -10,6 +10,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzin-1&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 </div>
   
   ##
