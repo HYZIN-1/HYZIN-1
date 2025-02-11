@@ -2,7 +2,7 @@
 - :telescope: Desenvolvedor GameDev
 - :seedling: Estudando a Godot Engine
 - :video_game: No meu tempo livre, gosto muito de jogar videogame.
-- :mailbox: Entre em contato comigo pelo email: lucasrivail.araujo@gmail.com
+- :mailbox: Entre em contato comigo pelo email: araujo.rplucas@gmail.com
 
 <div align="center">
   <a href="https://github.com/HYZIN-1">
