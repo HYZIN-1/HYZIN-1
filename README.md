@@ -68,5 +68,5 @@
 
 <p align="center">
   <b style="color:#FF1E1E;">✨ Atualizado automaticamente todos os dias!</b><br>
-  <sub style="color:#8B0000;">Feito com 💻 e paixão por código.</sub>
+  <sub style="color:#8B0000;">💻 + ❤️ = Código de qualidade.</sub>
 </p>
