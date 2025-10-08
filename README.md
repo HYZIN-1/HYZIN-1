@@ -1,18 +1,52 @@
-## Olá! Eu sou o Lucas Rivail
-- :telescope: GameDev
-- :seedling: Estudando Lua 🌙
-- :video_game: Gosto muito de jogar videogame.
-- :mailbox: Entre em contato comigo pelo email: araujo.rplucas@gmail.com
+<!-- Banner de boas-vindas -->
+<h1 align="center">👋 Olá, meu nome é Lucas Rivail Paulino Santos de Araújo!</h1>
 
-<div align="center">
-  <a href="https://github.com/HYZIN-1">
-  ![Status:](https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&theme=radical)
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzin-1&layout=compact&langs_count=7&theme=dark"/>
-  ![Activity:](https://github-readme-activity-graph.vercel.app/graph?username=HYZIN-1&theme=dracula)
-</div> 
- 
-  
-</div>
-  
-  ##
-  
+<p align="center">
+🎮 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Apaixonado por Desenvolvimento de Jogos <br>
+🔥 Transformando ideias em código e experiências interativas.
+</p>
+
+---
+
+### 🚀 Linguagens & Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LÖVE2D-FF69B4?style=for-the-badge&logo=love&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCordeiro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCordeiro&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+### 📈 Gráfico de Atividades
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCordeiro&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+### ⚡ Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas, Atualmente no Segundo Período**  
+- 🕹️ Focado em **Desenvolvimento de Jogos** com **Godot Engine** e **LÖVE2D**  
+- 🧠 Atualmente estudando **GDScript e Lua 🌙**  
+- 💡 Sonho: Criar jogos AAA (Tiple A) ❤  
+
+---
+
+<p align="center">
+  <b>✨ Atualizado automaticamente todos os dias!</b>
+</p>
