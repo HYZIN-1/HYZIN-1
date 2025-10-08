@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/HYZIN-1">
-  <img height="140em" src="https://github.com/HYZIN-1?tab=repositories"/>
+  <img height="140em" src="https://github.com/HYZIN-1/HYZIN-1/pulse"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzin-1&layout=compact&langs_count=7&theme=dark"/>
 </div> 
  
