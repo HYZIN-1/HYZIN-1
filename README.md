@@ -25,9 +25,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&theme=radical&hide_border=true&bg_color=FF1E1E"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYZIN-1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=FF1E1E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1E1E&text_color=FF1E1E&icon_color=FF1E1E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYZIN-1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF1E1E&text_color=FF1E1E"/>
 </p>
+
 
 ---
 
