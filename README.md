@@ -1,8 +1,8 @@
 <!-- Banner de boas-vindas -->
-<h1 align="center">👋 Olá, meu nome é Lucas Rivail Paulino Santos de Araújo!</h1>
+<h1 align="center">👋 Olá, eu sou o <span style="color:#FF1E1E;">Lucas Rivail Paulino Santos de Araújo</span>!</h1>
 
 <p align="center">
-🎮 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Apaixonado por Desenvolvimento de Jogos <br>
+🎮 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> | 💻 Apaixonado por <b>Desenvolvimento de Jogos</b><br>
 🔥 Transformando ideias em código e experiências interativas.
 </p>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/LÖVE2D-FF69B4?style=for-the-badge&logo=love&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -28,7 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1E1E&text_color=FF1E1E&icon_color=FF1E1E"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYZIN-1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF1E1E&text_color=FF1E1E"/>
 </p>
-
 
 ---
 
@@ -43,8 +42,14 @@
 ### 📬 Contato
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:araujo.rplucas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF1E1E?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://br.linkedin.com/in/lucas-rivail-araujo-a57585350" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HYZIN-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -52,13 +57,14 @@
 
 ### ⚡ Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas, Atualmente no Segundo Período**  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º Período)  
 - 🕹️ Focado em **Desenvolvimento de Jogos** com **Godot Engine** e **LÖVE2D**  
-- 🧠 Atualmente estudando **GDScript 🤖 e Lua 🌙**  
-- 💡 Sonho: Criar jogos AAA (Tiple A) ❤  
+- 🧠 Estudando **GDScript 🤖** e **Lua 🌙**  
+- 💡 Sonho: Criar jogos **Triple A** com identidade própria ❤️  
 
 ---
 
 <p align="center">
-  <b>✨ Atualizado automaticamente todos os dias!</b>
+  <b>✨ Atualizado automaticamente todos os dias!</b><br>
+  <sub style="color:#FF1E1E;">Feito com 💻 e paixão por código.</sub>
 </p>
