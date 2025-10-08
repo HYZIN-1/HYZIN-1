@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/HYZIN-1">
-  <img height="140em" src="https://github.com/HYZIN-1/HYZIN-1/pulse"/>
+  ![Status:](https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&theme=radical)
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzin-1&layout=compact&langs_count=7&theme=dark"/>
+  ![Activity:](https://github-readme-activity-graph.vercel.app/graph?username=HYZIN-1&theme=dracula)
 </div> 
  
   
