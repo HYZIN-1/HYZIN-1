@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Rivail
-- :telescope: Desenvolvedor GameDev
+- :telescope: GameDev
 - :seedling: Estudando Lua 🌙
-- :video_game: No meu tempo livre, gosto muito de jogar videogame.
+- :video_game: Gosto muito de jogar videogame.
 - :mailbox: Entre em contato comigo pelo email: araujo.rplucas@gmail.com
 
 <div align="center">
