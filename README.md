@@ -35,7 +35,7 @@
 ### 📈 Gráfico de Atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYZIN-1&bg_color=0D1117&color=FF0000&line=FF1E1E&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYZIN-1&bg_color=0D1117&color=FF1E1E&line=FF1E1E&point=FF4C4C&area_color=FF1E1E&area=true&hide_border=true&title_color=FF1E1E"/>
 </p>
 
 ---
