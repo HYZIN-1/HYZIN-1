@@ -25,8 +25,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYZIN-1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&theme=radical&hide_border=true&bg_color=FF1E1E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYZIN-1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=FF1E1E"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 📈 Gráfico de Atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYZIN-1&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYZIN-1&bg_color=0D1117&color=FF0000&line=FF1E1E&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
