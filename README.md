@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/LÖVE2D-FF69B4?style=for-the-badge&logo=love&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -24,8 +25,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCordeiro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCordeiro&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HYZIN-1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYZIN-1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -33,7 +34,17 @@
 ### 📈 Gráfico de Atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCordeiro&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYZIN-1&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+### 📬 Contato
+
+<p align="center">
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -42,7 +53,7 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas, Atualmente no Segundo Período**  
 - 🕹️ Focado em **Desenvolvimento de Jogos** com **Godot Engine** e **LÖVE2D**  
-- 🧠 Atualmente estudando **GDScript e Lua 🌙**  
+- 🧠 Atualmente estudando **GDScript 🤖 e Lua 🌙**  
 - 💡 Sonho: Criar jogos AAA (Tiple A) ❤  
 
 ---
