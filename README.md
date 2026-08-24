@@ -59,11 +59,11 @@
 
 ### ⚡ Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º Período)  
-- 🕹️ Focado em **Desenvolvimento de Jogos** com **Godot Engine** e **LÖVE2D**  
-- 🧠 Estudando **GDScript 🤖** e **Lua 🌙**  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (4º Período)  
+- 🕹️ Focado em **Desenvolvimento de Jogos** com **Godot Engine**. 
+- 🧠 Estudando **GDScript 🤖**.  
 - 🌐 Tenho facilidade em manter conversas em **inglês**.
-- 💡 Sonho: Criar jogos **Triple A** com identidade própria ❤️  
+- 💡 Sonho: Criar jogos **Triple A** com identidade própria. ❤️  
 
 ---
 
